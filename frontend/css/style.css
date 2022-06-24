@@ -81,7 +81,6 @@ header .container {
 
 .not-connected h1 {
   text-shadow: 2px 2px 0 var(--accent-color);
-  font-style: italic;
   margin: 2rem 0;
   font-size: 3.5rem;
 }
@@ -107,7 +106,6 @@ header .container {
   background: var(--btn-bg-color);
   color: var(--accent-color);
   font-family: var(--font-secondary);
-  font-style: italic;
   font-weight: bold;
   font-size: 1rem;
   text-align: center;
@@ -218,10 +216,8 @@ section {
 
 .countdown h1 {
   text-shadow: 2px 2px 0 var(--accent-color);
-  font-style: italic;
   margin: 2rem 0;
   font-size: 3.5rem;
-  text-align: center;
 }
 
 .countdown h2 {
